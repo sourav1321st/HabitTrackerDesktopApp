@@ -39,7 +39,7 @@ public class MainFrame extends JFrame {
     public MainFrame() {
         super("Habit Tracker");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setSize(1000, 1000);
+        setSize(800, 800);
         setLayout(new BorderLayout());
 
         // Load FlatLaf theme
